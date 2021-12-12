@@ -10,18 +10,37 @@ body {
 
 /*-------------------------------------- images*/
 
-#hero-img {
+#hero-image {
    background: url(../images/hero-image.jpg);
+   height:600px;
+   width: 100%;
+   background-attachment: fixed;
    background-position: center;
    background-repeat: no-repeat;
    background-size: cover;
-   height: 80%;
-   padding: 0;
-   animation-name: hero-zoom;
-   animation-duration: 5s;
-   animation-fill-mode: forwards;
+  animation-name: hero-zoom;
+  animation-duration: 5s;
+  animation-fill-mode: forwards;
 }
 
+#hero-outer {
+   position: relative;
+   overflow: hidden;
+   height:600px;
+   width: 100%
+   
+ }
+
+
+
+ @keyframes hero-zoom {
+   from {
+      transform: scale(1);
+   }
+   to {
+      transform: scale(1.1);
+   }
+ }
    
 
 
@@ -50,13 +69,28 @@ h4 {
 
 /*-------------------------------------- footer*/
 
+
+
 .social-links {
    text-align: center;
 }
 
-.social-links i {
-   color: #fafafa;
+.social-links li {
+   display: inline-block;
+   position: relative;
 }
 
+.social-links i {
+   color: #fafafa;
+   font-size: 140%;
+   padding-top: 1px;
+   padding-bottom: 1px;
+   
+
+}
+
+footer {
+   height: 50px;
+}
 /*-------------------------------------- Media Screen*/
 
