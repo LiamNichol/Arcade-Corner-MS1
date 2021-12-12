@@ -160,6 +160,12 @@ footer {
     }
 }
 
+@media screen and ( max-width: 943px ) {
+#cover-text {
+   left:0px;
+   font-size: 4px;
+}
 
+}
 
 
