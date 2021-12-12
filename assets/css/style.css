@@ -117,6 +117,25 @@ h4 {
 
 /*-------------------------------------- about us*/
 
+
+
+.jumbotron h1 {
+   color: #81d1e6;
+}
+
+.about-img {
+   background-image: url('gaming-arena.jpg');
+   background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+.about-img img {
+   display: inline-block;
+   height: 25%;
+   width: 25%;
+}
+
 /*-------------------------------------- contact*/
 
 /*-------------------------------------- footer*/
