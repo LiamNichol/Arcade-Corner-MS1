@@ -56,19 +56,23 @@ hr {
    display: flex;
    flex-wrap: wrap;
    padding: 0 4px;
+   text-align: center;
    justify-content: center;
  }
 
  .column {
    flex: 25%;
    max-width: 25%;
-   padding: 0 4px;
+   padding: 0 10px;
  }
  
  .column img {
    margin-top: 8px;
    vertical-align: middle;
    width: 100%;
+   text-align: center;
+   
+   
    
  }
 
@@ -93,17 +97,7 @@ hr {
    position: absolute;
  }
 
- .jumbotron {
-  
-  background-size: cover;
-  border-top-right-radius: 9999px;
-  border-bottom-right-radius: 9999px;
-  border: 50px;
-  border-style: double double none none;
-  margin-bottom: 10px;
-  margin-top: 20px;
-  margin-right: 10px;
- }
+ 
 
  #events {
    background-image: url(../images/newcastle.jpg);
@@ -168,6 +162,7 @@ h4 {
    display: inline-block;
    height: 400px;
    width: 400px;
+   
 }
 
 /*-------------------------------------- contact*/
