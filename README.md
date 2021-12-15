@@ -47,9 +47,6 @@
     1. As a commercial visitor, i want the ability to be able to view and identify what the store offers and any sponsership opertunities/fund raisers.
 
 
-* 
-
-
 
 ## Technologies used
 ---
@@ -71,7 +68,27 @@
 * [Slack](https://slack.com/intl/en-gb/)
 
 ### Images
+ 
+ - All images used within this site across all three pages were taken from the below sources.(Authors of photos in credits section)
+
 * [Pexels](https://www.pexels.com/)
+
+
+Photo by Alena Darmel from Pexels
+ Photo by RODNAE Productions from Pexels
+Photo by Tima Miroshnichenko from Pexels -  
+Photo by Ron Lach from Pexels
+Photo by Garon Piceli from Pexels -
+ Photo by Jens Mahnke from Pexels
+Photo by Geoff Duke from Pexels - events
+Photo by Lucie Liz from Pexels - events
+Photo by Francesco Ungaro from Pexels
+
+
+
+
+
+
 ### Content
 
 
@@ -124,3 +141,24 @@ To deploy the website, I followed the below steps on [GitHub](https://github.com
 1. Go to **"Settings"** on the repository
 2. On **"Source"** of **"GitHub Pages"**, select **"master** for Branch and click save
 3. The website is now published on GitHub Pages and the link is provided on on the same section
+ 
+  ## Languages
+
+  - [HTML5](https://en.wikipedia.org/wiki/HTML5)
+  - [CSS](https://en.wikipedia.org/wiki/CSS)
+
+
+## Credits
+
+ - Photo by Alena Darmel from [Pexels]
+ - Photo by RODNAE Productions from [Pexels]
+ - Photo by Tima Miroshnichenko from [Pexels] 
+ - Photo by Ron Lach from [Pexels]
+ - Photo by Garon Piceli from [Pexels] 
+ - Photo by Jens Mahnke from [Pexels]
+ - Photo by Geoff Duke from [Pexels] 
+ - Photo by Francesco Ungaro from [Pexels]
+
+ * Special mentions - 
+   - Spencer Barriball [Mentor]
+   - Peer Support [Slack]
