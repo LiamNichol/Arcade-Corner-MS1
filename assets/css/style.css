@@ -33,6 +33,15 @@ h1 {
    animation-duration: 5s;
    animation-fill-mode: forwards;
 }
+#hero-image-bg {
+   height: 50rem;
+   width: 100%;
+   background: url(../images/hero-image.jpg) no-repeat fixed center;
+   background-size: cover;
+   animation-name: hero-zoom;
+   animation-duration: 5s;
+   animation-fill-mode: forwards;
+}
 #hero-outer {
    position: relative;
    overflow: hidden;
@@ -135,6 +144,22 @@ h4 {
    width: 40rem;
 }
 /*-------------------------------------- contact*/
+.form-section {
+   clear: left;
+   background: url("/assets/images/pixels.jpg");
+   background-size: cover;
+   background-position: center;
+   height: 90rem;
+}
+.signup-form {
+   margin-top: 30rem;
+   color: #fff;
+   background-color: rgba(60, 60, 60, 0.6);
+   max-width: 40rem;
+   position: absolute;
+   left: 44%;
+   padding: 2rem 2rem 2rem 2rem;
+}   
 /*-------------------------------------- footer*/
 .social-links {
    text-align: center;
