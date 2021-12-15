@@ -186,10 +186,13 @@ th {
        flex: 50%;
        max-width: 50%;
    }
+   #cover-text {
+      font-size: 10%;
+}
 }
 @media screen and ( min-width: 943px ) {
    #cover-text {
-       font-size: 50%;
+       font-size: 20%;
    }
    .column {
        flex: 25%;
