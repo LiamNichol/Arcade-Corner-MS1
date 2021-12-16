@@ -10,7 +10,7 @@
 
 [Enter the site] (https://liamnichol.github.io/Arcade-Corner-MS1/)
 
-<p align="center"><img src=""></p>
+![](assets/images/responsive.png)
 
 ## Table of Contents
 
@@ -48,6 +48,9 @@
 
     1. As a commercial visitor, i want the ability to be able to view and identify what the store offers and any sponsership opertunities/fund raisers.
 
+# Project Screen shots
+
+
 
 
 ## Technologies used
@@ -82,18 +85,19 @@
 
 ## Testing 
 ---
-
-### Browser Testing
+This website was also tested using the lighthouse chrome developer extention and the results are as follows.
+ 
+ - updates to be made to websites assesability options for screen readers and compression of images to reduce loading time. Color contracts between sections works well yet can be improves to distinguish between sections.
+ 
 
 
 ## Validation
 ---
+* To validate my HTML5 code i used the following website (https://validator.w3.org/nu/?showsource=yes&doc=https%3A%2F%2Fliamnichol.github.io%2FArcade-Corner-MS1%2F)
+![](assets/images/html-val.png)
 
-
-
-## Local Testing
----
-
+ * To validate CSS [https://jigsaw.w3.org/css-validator/]
+![](assets/images/css-val.png)
 
 
 ## Responsiveness
@@ -101,12 +105,18 @@
 
  Developer Tools inside a chrome brower were used  extensivly to check the responsiveness of website. Mobile, tablet and desktop sizes were tested.
 
+ Testing across all availible devices inside the developer tools on a chrome browser.
+
+ further responsive tests ran on a hp chromebook,samsung galaxy s21 & s1 plus.
+
 
 ## Bugs during development
 ---
 - home page events section bug when lowering down screen sizes,bug fix = display set to none when below a screensize of 600px.
 
 - callout section inside hero image bug when lowering down screen sizes,bug fix = display set to none when below a screensize of 600px.
+
+- background image on contact.html shows durnglive preview in gitpod, yet does not display on my live website. html and code passed.
 
 ## Version Control
 ---
@@ -145,10 +155,10 @@ To deploy the website, I followed the below steps on [GitHub](https://github.com
  - Photo by RODNAE Productions from [Pexels](https://www.pexels.com/@rodnae-prod?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels)
  - Photo by Tima Miroshnichenko from [Pexels](https://www.pexels.com/photo/a-boy-playing-a-computer-game-7046690/?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels)
  - Photo by Ron Lach from [Pexels](https://www.pexels.com/@ron-lach?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels)
- - Photo by Garon Piceli from [Pexels] 
- - Photo by Jens Mahnke from [Pexels]
- - Photo by Geoff Duke from [Pexels] 
- - Photo by Francesco Ungaro from [Pexels]
+ - Photo by Garon Piceli from [Pexels](https://www.pexels.com/@garonpiceli?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels)
+ - Photo by Jens Mahnke from [Pexels](https://www.pexels.com/@atomlaborblog?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels)
+ - Photo by Geoff Duke from [Pexels](https://www.pexels.com/@geoffduke?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels) 
+ - Photo by Francesco Ungaro from [Pexels](https://www.pexels.com/@francesco-ungaro?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels)
 
  * insperation for styling and layout  for the events section contained within the home page was taken from Code Institutes Love Runnning project.
 
