@@ -57,7 +57,33 @@
 
 - As you first enter the site the user is greated by an eye catching hero image with zoom, overlay text and a stylish yet simple dark navbar.
 
+![](assets/images/nav.png)
 
+## Quotes Section 
+
+- Front and center of the page are two posative reviews targeting both areas that the busines offers, this being a cafe/lounge and a gaming zone with multiple areas.
+
+- Referenceing reviews from both returning customers and a new customer.
+
+![](assets/images/quotes.png)
+
+## Events 
+
+- In the events section the users gets to view weekly run events, different event types, days and times. All with a backdrop of Newcastle.
+
+![](assets/images/ncl.png)
+
+## About us page
+
+- This page showcases 4 of the events held or ran at the busines, updates to this page are planned to be made to add text overlay across the grid images to give a description for easier navigation.
+
+![](assets/images/abt.png)
+
+## Contact Page
+
+- Bright bold background to catch the users attention and draw them into the screen, accompanied by a subtle form area with multiple optoins to choose from and an additional text area.
+
+![](assets/images/contactfm.png)
 
 
 ## Technologies used
@@ -69,10 +95,6 @@
 * [Bootstrap](https://getbootstrap.com/) Structure and CDN for the website
 * [Google Fonts](https://fonts.google.com/) Fonts
 
-
-
-
-## Resources
 ---
 ### Technical coding assistance
 * [Code Institute](https://codeinstitute.net/) 
@@ -116,6 +138,18 @@ This website was also tested using the lighthouse chrome developer extention and
  * To validate CSS [https://jigsaw.w3.org/css-validator/]
 ![](assets/images/css-val.png)
 
+## Wireframes
+
+---
+
+Current wireframes created fot the website to showcase the initial ideas behind the finished design, 
+
+* About Section ![](assets/wireframes/about.wireframe.png)
+* Home Page ![](assets/wireframes/index.wireframe.png)
+* Contact Section ![](assets/wireframes/contact.wireframe.png)
+* Mobile home page ![](assets/wireframes/mobile.wireframe.png)
+
+- website to continue to be update to reach full potention of wire frames and ideas of author, upades to wire frames will continue also.
 
 ## Responsiveness
 ---
