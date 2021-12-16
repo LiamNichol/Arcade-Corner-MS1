@@ -6,6 +6,8 @@
  
  - This is my first portfolio project called Arcade Corner a new and up and coming fictional gaming and cafe lounge in the heart of Newcastle Upon Tyne.
 
+ - This is a 3 page responsive website featuring a home, about and contact us sections. Showcasing events, offers, themed days, consoles, Gaming Pc's, hand held devices and many more.
+
 #
 
 [Enter the site] (https://liamnichol.github.io/Arcade-Corner-MS1/)
@@ -26,6 +28,7 @@
   1. Increase door trade by having an appealing and informative website.
   2. Offer a an affordale option for people unable to eperience  high-end, high-spec gaming computers, consoles and devices for people who cannot afford to purchase them.
   3. Highlight tournaments, networking events, Retro nights, watch parties. 
+  4. Spread the word that a brand new Gaming cafe and lounge has opened up in the area.
 
 
 #
@@ -49,6 +52,10 @@
     1. As a commercial visitor, i want the ability to be able to view and identify what the store offers and any sponsership opertunities/fund raisers.
 
 # Project Screen shots
+
+## Landing page nav bar and hero image
+
+- As you first enter the site the user is greated by an eye catching hero image with zoom, overlay text and a stylish yet simple dark navbar.
 
 
 
@@ -80,11 +87,21 @@
 
 * [Pexels](https://www.pexels.com/)
 
-### Content
+### Font 
+
+* The font used within this website was taken from google fonts - [Google Fonts](https://fonts.google.com/) Fonts - the font chosen was a font called 'Permanent Marker' which complimets the arcade gaming theme.
+
+### Colors (colours)
+
+* the color used for the main body of the website was a simple #fafafa white so the wording stood out ina mostly dark back ground, changing to cyan blue where needed to contrast against the background.
 
 
 ## Testing 
 ---
+ ## Lighthouse Testings
+ 
+![](assets/images/lighthouse.png)
+
 This website was also tested using the lighthouse chrome developer extention and the results are as follows.
  
  - updates to be made to websites assesability options for screen readers and compression of images to reduce loading time. Color contracts between sections works well yet can be improves to distinguish between sections.
