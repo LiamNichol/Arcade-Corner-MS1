@@ -2,7 +2,7 @@
 
 # Arcade Corner
 
-## Code Institue Diploma in Web Application Development MS1 Project
+## Code Institute Diploma in Web Application Development MS1 Project
  
  - This is my first portfolio project called Arcade Corner a new and up and coming fictional gaming and cafe lounge in the heart of Newcastle Upon Tyne.
 
@@ -16,6 +16,21 @@
 
 ## Table of Contents
 
+
+- [UX and UI](#ux-and-ui)
+  - [Site Owner Goals](#site-owner-goals)
+  - [User Stories](#user-stories)
+  - [Wireframes](#wireframes)
+  - [Fonts](#fonts)
+  - [Colors](#colors)
+- [Deployment](#deployment)
+- [Testing](#testing)
+  - [Validation](#validation)
+  - [Bugs](#bugs)
+- [Credits](#credits)
+  - [Languages](#languages)
+  - [Images](#images)
+  
 
 
 
