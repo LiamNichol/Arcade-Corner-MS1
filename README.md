@@ -8,7 +8,7 @@
 
 ##
 
-[Enter the site](https://petecookson.github.io/Devaki-Yoga/index.html)
+[Enter the site]
 
 ## Table of Contents
 
