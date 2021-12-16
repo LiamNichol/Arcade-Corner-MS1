@@ -6,9 +6,11 @@
  
  - This is my first portfolio project called Arcade Corner a new and up and coming fictional gaming and cafe lounge in the heart of Newcastle Upon Tyne.
 
-##
+#
 
-[Enter the site]
+[Enter the site] (https://liamnichol.github.io/Arcade-Corner-MS1/)
+
+<p align="center"><img src=""></p>
 
 ## Table of Contents
 
@@ -71,7 +73,10 @@
  
  - All images used within this site across all three pages were taken from the below sources.(Authors of photos in credits section)
 
+ - All images have been selected to both catch the eye of the user and to give the user a feeling of familiarity with the images being commonly used with in the gaming industry. Making the site relatable and easier to navigate through each section for both new and returning users.
+
 * [Pexels](https://www.pexels.com/)
+
 ### Content
 
 
@@ -94,12 +99,14 @@
 ## Responsiveness
 ---
 
- Developer Tools inside a chrome brower were used to check the responsiveness of website. Mobile, tablet and desktop sizes were tested.
+ Developer Tools inside a chrome brower were used  extensivly to check the responsiveness of website. Mobile, tablet and desktop sizes were tested.
 
 
-## Bugs
+## Bugs during development
 ---
-- home page events section bug when lowering down screen sizes,bug fix upcoming
+- home page events section bug when lowering down screen sizes,bug fix = display set to none when below a screensize of 600px.
+
+- callout section inside hero image bug when lowering down screen sizes,bug fix = display set to none when below a screensize of 600px.
 
 ## Version Control
 ---
@@ -129,19 +136,22 @@ To deploy the website, I followed the below steps on [GitHub](https://github.com
 
   - [HTML5](https://en.wikipedia.org/wiki/HTML5)
   - [CSS](https://en.wikipedia.org/wiki/CSS)
+  - [Bootstrap](https://getbootstrap.com/)
 
 
 ## Credits
 
- - Photo by Alena Darmel from [Pexels]
- - Photo by RODNAE Productions from [Pexels]
- - Photo by Tima Miroshnichenko from [Pexels] 
- - Photo by Ron Lach from [Pexels]
+ - Photo by Alena Darmel from [Pexels](https://www.pexels.com/@a-darmel?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels)
+ - Photo by RODNAE Productions from [Pexels](https://www.pexels.com/@rodnae-prod?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels)
+ - Photo by Tima Miroshnichenko from [Pexels](https://www.pexels.com/photo/a-boy-playing-a-computer-game-7046690/?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels)
+ - Photo by Ron Lach from [Pexels](https://www.pexels.com/@ron-lach?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels)
  - Photo by Garon Piceli from [Pexels] 
  - Photo by Jens Mahnke from [Pexels]
  - Photo by Geoff Duke from [Pexels] 
  - Photo by Francesco Ungaro from [Pexels]
 
- * Special mentions - 
+ * insperation for styling and layout  for the events section contained within the home page was taken from Code Institutes Love Runnning project.
+
+ # Special mentions 
    - Spencer Barriball [Mentor]
    - Peer Support [Slack]
